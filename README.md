@@ -1,7 +1,7 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
 ### DATE: 11/03/24
-### NMAE : CHANDRAMOHAN S
-### REG NO : 212221223002
+### NMAE : PRAVEEN PV
+### REG NO : 212221040131
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
 <div align= "justify">Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website, 
